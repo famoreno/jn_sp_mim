@@ -1,4 +1,2 @@
-# Primary repository for Perception Systems Course
-Working repository for using the jupyter notebooks for Perception Systems Course @ University of Málaga
-
-Try it!
+This is an introductory chapter, so no practice at this point!
+![](frank_drebin.gif)
